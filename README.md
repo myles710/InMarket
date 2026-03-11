@@ -192,4 +192,4 @@ In a real deployment you would then:
 
 ## 7. Environment variables
 
-At the root of the repo there is a `.env.example`. Copy it to `.env` and fill in values as needed. Each service may also have its own `.env.example` file with service-specific variables.
+At the root/Agent of the repo there is a `.env.example`. Copy it to `.env` and fill in values as needed. Each service may also have its own `.env.example` file with service-specific variables.
